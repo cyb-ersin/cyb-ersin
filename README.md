@@ -44,8 +44,7 @@ My home lab is designed for hands-on practice in networking, security testing, a
 
 **Network Architecture:**
 
-
-                ┌──────────────┐
+                                           ┌──────────────┐
                 │   Internet   │
                 └──────┬───────┘
                        │
@@ -76,6 +75,7 @@ My home lab is designed for hands-on practice in networking, security testing, a
 │  Pentesting &   │    │  Development &  │
 │  Red Team Tools │    │  Linux Practice │
 └─────────────────┘    └─────────────────┘
+              
 
 **Hardware Inventory:**
 
