@@ -16,7 +16,7 @@ I don't just study for certifications — I build labs, break things, and docume
 
 I'm building at the intersection of **Cloud Security** and **SOC Operations** — not choosing one over the other, but combining both. Understanding how cloud infrastructure works, how to secure it, and how to detect and respond to threats inside it.
 
-My goal: a role where I secure cloud environments **and** monitor them — Cloud Security Engineer, Cloud SOC Analyst, or Security Operations in cloud-native teams.
+My goal: a role where I detect, analyze, and respond to threats — whether in cloud environments or traditional SOC teams. Cloud Security Engineer, SOC Analyst, Cloud SOC Analyst, or Security Operations in any team that values hands-on skills and sharp thinking.
 
 ---
 
