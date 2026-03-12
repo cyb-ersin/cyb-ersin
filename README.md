@@ -92,7 +92,7 @@ My home lab is designed for hands-on practice in networking, security testing, a
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ersin%20Uyanik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersin-uyanik)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ersinuyanik.png)](https://tryhackme.com/p/ersinuyanik)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ersinuyanik-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ersinuyanik)
 [![GitHub](https://img.shields.io/badge/GitHub-cyb--ersin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyb-ersin)
 
 ---
