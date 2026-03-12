@@ -24,8 +24,8 @@ My goal: a role where I secure cloud environments **and** monitor them — Cloud
 
 | Certification | Status | Date |
 |:---:|:---:|:---:|
-| [![CompTIA A+](https://img.shields.io/badge/A%2B-Verified-E31837?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/94b63de0-5ae2-493a-8aa6-7c662843be81/public_url) | ✅ Passed | 2025 |
-| [![CompTIA Security+](https://img.shields.io/badge/Security%2B-Verified-E31837?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/918c6ff2-8d25-4c22-a515-4b8ad013470b/public_url) | ✅ Passed | 2025 |
+| [![CompTIA A+](https://img.shields.io/badge/A%2B-Verified-E31837?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/94b63de0-5ae2-493a-8aa6-7c662843be81/public_url) | ✅ Passed | 2026 |
+| [![CompTIA Security+](https://img.shields.io/badge/Security%2B-Verified-E31837?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/918c6ff2-8d25-4c22-a515-4b8ad013470b/public_url) | ✅ Passed | 2026 |
 | ![CompTIA Network+](https://img.shields.io/badge/Network%2B-In%20Progress-FF9900?style=flat-square&logo=comptia&logoColor=white) | 🔄 Studying | 2026 |
 | ![AWS CCP](https://img.shields.io/badge/Cloud%20Practitioner-Planned-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | 📋 Planned | 2026 |
 | ![AWS SAA](https://img.shields.io/badge/Solutions%20Architect-Planned-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | 📋 Planned | 2026 |
