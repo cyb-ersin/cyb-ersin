@@ -97,4 +97,4 @@ My home lab is designed for hands-on practice in networking, security testing, a
 
 ---
 
-*Started from zero. 3 exams in 5 months. This is just the beginning.* 🚀
+*Started from zero. 3 exams in 5 months. Still learning, still building — every lab teaches something new.* 🚀
