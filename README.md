@@ -60,7 +60,7 @@ My home lab is designed for hands-on practice in networking, security testing, a
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
 | 0 | Network Discovery | ARP, nmap, topology mapping, Layer 2 repeater behavior | ✅ |
-| 1 | Port Scanning & Services | Service enumeration, version detection, attack surface analysis | 🔄 |
+| 1 | Wireshark Traffic Analysis | ICMP, DNS, HTTP, ARP, TLS analysis, passive device identification | ✅ |
 | 2 | Firewall & Segmentation | pfSense/OPNsense, ACLs, traffic filtering, network zones | 🔜 |
 | 3 | SIEM & Log Analysis | Graylog/Wazuh, log collection, alert triage, detection rules | 🔜 |
 | 4 | AWS Cloud Security | VPC design, security groups, IAM, CloudTrail monitoring | 🔜 |
