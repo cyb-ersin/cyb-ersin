@@ -43,40 +43,26 @@ I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Pro
 My home lab is designed for hands-on practice in networking, security testing, and cloud infrastructure. Each machine has a dedicated role to simulate a realistic multi-device environment.
 
 **Network Architecture:**
+                       [Internet]
+                            |
+                       [Fritz!Box]
+                      192.168.178.1
+                         Gateway
+                        /       \
+                       /         \
+              [MacBook Pro]    [TP-Link RE190]
+             192.168.178.111    Repeater
+             Management Station    |
+                              /    |    \
+                             /     |     \
+                         [iMac] [iPad] [Others]
+                        Lab Server
+                        32GB RAM
+                         Ubuntu
 
-                                           ┌──────────────┐
-                │   Internet   │
-                └──────┬───────┘
-                       │
-                ┌──────┴───────┐
-                │  Fritz!Box   │
-                │ 192.168.178.1│
-                │   Gateway    │
-                └──┬───────┬───┘
-                   │       │
-       ┌───────────┘       └────────────┐
-       │                                │
-┌──────┴───────┐                 ┌──────┴───────┐
-│  MacBook Pro  │                │ TP-Link RE190│
-│ 192.168.178.111│               │   Repeater   │
-│  Management   │                └──────┬───────┘
-└───────────────┘                       │
-                          ┌─────────────┼─────────────┐
-                          │             │             │
-                   ┌──────┴──────┐ ┌────┴────┐ ┌─────┴─────┐
-                   │    iMac     │ │  iPad   │ │  Others   │
-                   │  Lab Server │ │         │ │           │
-                   │  32GB RAM   │ └─────────┘ └───────────┘
-                   │   Ubuntu    │
-                   └─────────────┘
-
-┌─────────────────┐    ┌─────────────────┐
-│  Kali Laptop    │    │ Ubuntu Laptop   │
-│  Pentesting &   │    │  Development &  │
-│  Red Team Tools │    │  Linux Practice │
-└─────────────────┘    └─────────────────┘
-              
-
+         [Kali Laptop]          [Ubuntu Laptop]
+          Pentesting             Linux Practice           
+           
 **Hardware Inventory:**
 
 | Machine | Specs | OS | Role |
