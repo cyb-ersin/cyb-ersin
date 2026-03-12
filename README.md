@@ -41,21 +41,7 @@ I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Pro
 ### 🖥️ Lab Environment
 
 My home lab is designed for hands-on practice in networking, security testing, and cloud infrastructure. Each machine has a dedicated role to simulate a realistic multi-device environment.
-
-**Network Architecture:**
-
-```mermaid
-graph TD
-    Internet[Internet] --> FritzBox[Fritz!Box<br>192.168.178.1<br>Gateway]
-    FritzBox --> MacBook[MacBook Pro<br>192.168.178.111<br>Management Station]
-    FritzBox --> Repeater[TP-Link RE190<br>Repeater]
-    Repeater --> iMac[iMac 12,1<br>Lab Server<br>32GB RAM · Ubuntu]
-    Repeater --> iPad[iPad]
-    Repeater --> Others[Others]
-    FritzBox -.- Kali[Kali Laptop<br>Pentesting]
-    FritzBox -.- Ubuntu[Ubuntu Laptop<br>Linux Practice]
-```
-           
+       
 **Hardware Inventory:**
 
 | Machine | Specs | OS | Role |
