@@ -43,6 +43,8 @@ I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Pro
 My home lab is designed for hands-on practice in networking, security testing, and cloud infrastructure. Each machine has a dedicated role to simulate a realistic multi-device environment.
 
 **Network Architecture:**
+
+
                 ┌──────────────┐
                 │   Internet   │
                 └──────┬───────┘
