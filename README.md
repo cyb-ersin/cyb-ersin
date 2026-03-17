@@ -7,9 +7,8 @@ I don't just study for certifications — I build labs, break things, and docume
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20Verified-E31837?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/94b63de0-5ae2-493a-8aa6-7c662843be81/public_url)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Verified-E31837?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/918c6ff2-8d25-4c22-a515-4b8ad013470b/public_url)
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20In%20Progress-FF9900?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Path%20Planned-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20Planned-FF9900?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-51%25%20Complete-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ersinuyanik)
-
 ---
 
 ### 🎯 Where I'm headed
@@ -27,8 +26,7 @@ My goal: a role where I detect, analyze, and respond to threats — whether in c
 | [![CompTIA A+](https://img.shields.io/badge/A%2B-Verified-E31837?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/94b63de0-5ae2-493a-8aa6-7c662843be81/public_url) | ✅ Passed | 2026 |
 | [![CompTIA Security+](https://img.shields.io/badge/Security%2B-Verified-E31837?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/918c6ff2-8d25-4c22-a515-4b8ad013470b/public_url) | ✅ Passed | 2026 |
 | ![CompTIA Network+](https://img.shields.io/badge/Network%2B-In%20Progress-FF9900?style=flat-square&logo=comptia&logoColor=white) | 🔄 Studying | 2026 |
-| ![AWS CCP](https://img.shields.io/badge/Cloud%20Practitioner-Planned-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | 📋 Planned | 2026 |
-| ![AWS SAA](https://img.shields.io/badge/Solutions%20Architect-Planned-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | 📋 Planned | 2026 |
+| ![CompTIA CySA+](https://img.shields.io/badge/CySA%2B-Planned-FF9900?style=flat-square&logo=comptia&logoColor=white) | 📋 Planned | 2026 |
 
 ---
 
@@ -85,7 +83,7 @@ My home lab is designed for hands-on practice in networking, security testing, a
 🧪 Scanning and mapping my home network with **nmap** — documenting everything
 🎓 Cybersecurity **Weiterbildung** in Germany — finishing late 2026
 💻 **TryHackMe** Cybersecurity 101 — 51% complete
-☁️ Preparing the path toward **AWS Cloud Practitioner** and **Solutions Architect**
+🔐 Preparing the path toward **CySA+** after Network+
 
 ---
 
