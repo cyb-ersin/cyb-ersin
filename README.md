@@ -51,13 +51,25 @@ I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Pro
 
 ### 🗺️ Lab Roadmap
 
-| # | Lab | Focus | Status |
-|---|-----|-------|--------|
-| 0 | Network Discovery | ARP, nmap, topology mapping, security assessment | ✅ |
-| 1 | Wireshark Traffic Analysis | ICMP, DNS, HTTP, ARP, TLS, passive device identification | ✅ |
-| 2 | Firewall & Segmentation | UFW, iptables, traffic filtering, network zones | 🔄 |
-| 3 | SIEM & Log Analysis | Wazuh, log collection, alert triage, detection rules | 🔜 |
-| 4 | Attack & Detect | Simulate attacks with Kali, detect with SIEM | 🔜 |
+### 🗺️ HomeLab_Projects — Lab Roadmap
+| # | Lab | Tools | Focus | Status |
+|---|-----|-------|-------|--------|
+| 0 | Network Discovery | ifconfig, arp, nmap, ping | Network topology mapping, port scanning, MAC analysis, security assessment | ✅ |
+| 1 | Wireshark Traffic Analysis | Wireshark, curl, ping, nslookup | Protocol analysis (ICMP/DNS/HTTP/ARP/TLS), TCP lifecycle, JA3 fingerprinting, passive device ID | ✅ |
+| 2 | WiFi Security | aircrack-ng suite, hcxdumptool, hashcat, macchanger | WPA2 handshake capture, PMKID attack, deauth, MAC spoofing, offline cracking | ✅ |
+| 3 | Firewall & Segmentation | ufw, iptables, nmap, hydra | Host firewall, zone segmentation, brute force detection, log analysis | ✅ |
+---
+
+### 🛡️ HomeLab_Aegis — Lab Series
+| # | Chapter | Scenario Question | Status |
+|---|---------|-------------------|--------|
+| 01 | IDS Deployment | Can we detect a port scan and brute force in real time? | ✅ |
+| 02 | SIEM Integration | Do Suricata alerts reach Wazuh? Can we build a dashboard? |✅ |
+| 03 | Exploitation & Detection | If Metasploit gets a shell — does the IDS see it? | 🔜 |
+| 04 | Lateral Movement | Can SIEM detect movement between hosts post-compromise? | 🔜 |
+| 05 | PCAP Forensics | What does C2 and infostealer traffic look like in a PCAP? | 🔜 |
+| 06 | Detection Rule Writing | Can we write a Suricata rule that catches a specific threat? | 🔜 |
+| 07 | Incident Response | Can we build a full IR timeline and harden the environment? | 🔜 |
 
 ---
 
