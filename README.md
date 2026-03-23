@@ -42,8 +42,8 @@ I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Pro
 | 💻 MacBook Pro | 16GB RAM · 500GB SSD | macOS | Primary workstation — scanning, documentation, analysis |
 | 🖥️ iMac 12,1 | 32GB RAM · 500GB HDD | Ubuntu | Lab server — network services, security tool hosting |
 | 🐉 Lenovo TP |16GB RAM · 500GB SSD | Kali Linux | Security testing & vulnerability scanning |
-| 🐧 MacBook Pro- VirtualBox |-| VM Ubuntu | Ubuntu Linux | Additional lab node |
-| 🐧 Lenovo TP- VirtualBox |-|  VM Ubuntu  | Ubuntu Linux | Additional lab node |
+| 🐧 MacBook Pro- VirtualBox |-| VM Ubuntu |  | Additional lab node |
+| 🐧 Lenovo TP- VirtualBox |-|  VM Ubuntu  |  | Additional lab node |
 | 📡 Fritz!Box | — | — | Network gateway, DHCP server, DNS |
 | 📶 TP-Link RE190 | — | — | Wi-Fi repeater — discovered via MAC analysis in Lab 0 |
 
