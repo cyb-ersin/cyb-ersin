@@ -31,7 +31,7 @@ My goal: a SOC Analyst role where I contribute to threat detection, alert triage
 
 ### 🧪 What I'm building
 
-I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Project) and [HomeLab Aegis](https://github.com/cyb-ersin/HomeLab_Project_Aegis) repos document real hands-on work — not tutorial copy-paste, but actual discovery, mistakes, and lessons. Aegis goes deeper: IDS deployment, SIEM integration, exploitation and detection.
+I learn by doing. My [HomeLab Projects](https://github.com/cyb-ersin/HomeLab_Foundation) and [HomeLab Aegis](https://github.com/cyb-ersin/HomeLab_Project_Aegis) repos document real hands-on work — not tutorial copy-paste, but actual discovery, mistakes, and lessons. Aegis goes deeper: IDS deployment, SIEM integration, exploitation and detection.
 ---
 
 ### 🖥️ Lab Environment
