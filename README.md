@@ -86,13 +86,27 @@ Going beyond pre-packaged SOC courses: stand up Splunk, ELK, and Security Onion 
 | 06 | L1 Triage Simulation | Timed 2h shifts on mixed noise + real attacks | 🔜 |
 | 07 | Case Reporting & Methodology | 5W + IOC + MITRE + remediation templates | 🔜 |
 
+### 🔬 HomeLab Forensics — *Planned*
+*Digital forensics & incident response — disk imaging, filesystem analysis, timeline reconstruction.*
+
+Post-mortem investigation of compromised systems using industry-standard DFIR tools on public sample datasets from Digital Corpora and NIST CFReDS.
+
+| # | Chapter | Focus | Status |
+| :-- | :-- | :-- | :--: |
+| 01 | Disk Imaging Fundamentals | `dd`, hashing, chain of custody | 🔜 |
+| 02 | Sleuth Kit CLI | `fls`, `icat`, `mmls` — filesystem analysis from the command line | 🔜 |
+| 03 | Autopsy GUI | Same image, structured GUI analysis | 🔜 |
+| 04 | Timeline Reconstruction | `mactime`, MAC-times, event correlation | 🔜 |
+| 05 | Memory Forensics | Volatility 3 on memory captures | 🔜 |
+| 06 | Full Case Study | Infected image → IOCs → timeline → root cause report | 🔜 |
+
 ---
 
 ### 📌 Currently
 
 - 📖 Studying **CompTIA CySA+**
 - 🛠️ Next up: **Aegis Ch.04 — Exploitation & Detection**
-- 🎯 Planning: **HomeLab Vanguard** — SOC analyst simulation lab (post-Aegis)
+- 🎯 Planning: **HomeLab Vanguard** (SOC simulation) + **HomeLab Forensics** (DFIR)
 - 🎓 Cybersecurity **Weiterbildung** in Germany — finishing late 2026
 - 💻 **TryHackMe** Cybersecurity 101 — 51% complete
 
