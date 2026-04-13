@@ -19,6 +19,21 @@ My goal: a SOC Analyst role where I contribute to threat detection, alert triage
 
 ---
 
+### 🛠️ Core Skills
+
+Every tool listed below has been used hands-on in a documented lab — not just read about.
+
+| Area | Tools & Techniques |
+| :-- | :-- |
+| **Network Analysis** | Wireshark, tcpdump, protocol analysis (ICMP/DNS/HTTP/ARP/TLS), JA3 fingerprinting, TCP lifecycle |
+| **Offensive Security** | nmap, hydra, aircrack-ng suite, hcxdumptool, hashcat, MAC spoofing |
+| **Detection & Monitoring** | Suricata (IDS), Wazuh (SIEM), MITRE ATT&CK mapping, alert triage |
+| **System Hardening** | ufw, iptables, network segmentation, firewall rule design |
+| **Forensics** | PCAP analysis, log correlation, timeline reconstruction |
+| **Scripting & Docs** | Bash, Python (basics), Markdown, Git |
+
+---
+
 ### 🔒 Certifications
 
 | Certification | Status | Date |
