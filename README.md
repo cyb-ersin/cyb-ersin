@@ -6,7 +6,7 @@ I don't just study for certifications — I build labs, break things, and docume
 
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20Verified-E31837?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/94b63de0-5ae2-493a-8aa6-7c662843be81/public_url)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Verified-E31837?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/918c6ff2-8d25-4c22-a515-4b8ad013470b/public_url)
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20Certified-E31837?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20Certified-E31837?style=for-the-badge&logo=comptia&logoColor=white)]([https://www.comptia.org/certifications/cybersecurity-analyst](https://www.credly.com/badges/580a44f1-f2c6-4c75-88b2-9ffe97a60461/public_url))
 [![CompTIA CSAP](https://img.shields.io/badge/CompTIA-CSAP%20Stackable-E31837?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/org/comptia/badge/comptia-security-analytics-professional-csap-stackable-certification)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-51%25%20Complete-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ersinuyanik)
 
