@@ -42,7 +42,7 @@ Every tool listed below has been used hands-on in a documented lab — not just 
 | --- | --- | --- |
 | [CompTIA A+](https://www.credly.com/badges/94b63de0-5ae2-493a-8aa6-7c662843be81/public_url) | ✅ Passed | Jan 2026 |
 | [CompTIA Security+](https://www.credly.com/badges/918c6ff2-8d25-4c22-a515-4b8ad013470b/public_url) | ✅ Passed | Mar 2026 |
-| [CompTIA CySA+](https://www.credly.com/badges/580a44f1-f2c6-4c75-88b2-9ffe97a60461/public_url)) | ✅ Passed | Jul 2026 |
+| [CompTIA CySA+](https://www.credly.com/badges/580a44f1-f2c6-4c75-88b2-9ffe97a60461/public_url) | ✅ Passed | Jul 2026 |
 | [CompTIA Security Analytics Professional (CSAP)](https://www.credly.com/badges/5c632258-2ad5-4b89-b882-1bac71b78b3b/public_url) | ✅ Stackable Credential | Jul 2026 |
 
 > The CSAP is a CompTIA stackable credential earned through Security+ and CySA+. It is not a separate exam.
